@@ -8,7 +8,9 @@
   ],
   "dependencies": {
     "callsite": "1.0.0",
-    "underscore": "1.5.x",
+    "underscore": "1.5.x"
+  },
+  "devDependencies": {
     "mustache": "0.7.x",
     "should": "1.2.x",
     "mocha": "1.14.x",
@@ -23,7 +25,6 @@
   "bugs": {
     "url": "https://github.com/sefaira/rho-contracts.js/issues"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "make test"
   },
